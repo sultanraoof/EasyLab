@@ -1,14 +1,14 @@
-# Easylab 🧪
+# Easylab 
 
 Easylab is an AI-powered lab report analyzer that extracts and interprets medical test values from scanned or photographed reports using OCR.
 
 ## Features
 
-- ✅ OCR-based text extraction from lab reports
-- 📊 Auto-classifies blood test results (Normal / High / Low)
-- 🎨 Clean and color-coded result UI
-- 🧠 Supports multiple aliases for common medical terms
-- 💡 Built with Streamlit for easy deployment
+- OCR-based text extraction from lab reports
+- Auto-classifies blood test results (Normal / High / Low)
+- Clean and color-coded result UI
+- Supports multiple aliases for common medical terms
+- Built with Streamlit for easy deployment
 
 ## Usage
 
